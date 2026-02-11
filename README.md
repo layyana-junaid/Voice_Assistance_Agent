@@ -4,7 +4,7 @@
 ![banner](screenshots/1.jpg)
 
 
-**Team Name:** Nexsusu
+**Team Name:** Nexus
 **Participants:**
 
 * Layyana Junaid
