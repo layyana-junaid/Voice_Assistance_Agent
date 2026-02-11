@@ -31,6 +31,9 @@ This project demonstrates how voice agents can enhance user experience in digita
 ---
 ## Video Demonstration
 
+https://github.com/user-attachments/assets/b3b7beac-b75b-4dbe-8642-8afc87e10ac9
+
+
 Link your demo video here:
 
 ```
