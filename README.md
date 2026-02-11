@@ -1,72 +1,72 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
+<div align="center">
 
-# *Voice Assistance Agent*
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
 
-### *AI-Powered Voice-Guided Banking Demo*
-![banner](screenshots/1.jpg)
+ # *Voice Assistance Agent*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
+ ### *AI-Powered Voice-Guided Banking Demo*
+ ![banner](screenshots/1.jpg)
 
-
-**Team Name:** Nexus
-**Participants:**
-
-* Layyana Junaid
-* Maryam Mustafa
-* Khadija Atiq
-* Wafa Zehra
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
-
----
-
-## Project Overview
-
-Voice Assistance Agent is an AI-powered, voice-guided banking interface designed to simplify digital banking interactions through natural speech and real-time UI guidance.
-
-The system allows users to complete tasks like bill payments using voice commands while the assistant guides them step-by-step by highlighting exactly what to click on the screen.
-
-Instead of static help menus or text-heavy FAQs, this solution provides:
-
-* Real-time voice interaction
-* Context-aware step-by-step guidance
-* Smart UI highlighting
-* Interactive modal navigation
-* Mock payment processing with balance deduction
-
-This project demonstrates how voice agents can enhance user experience in digital banking platforms.
-
----
-## Video Demonstration
-##### -> Due to the issue of presence of voice in the screen recorded video, I am attaching a manually recorded video, apologies for inconvinience!
-
-https://github.com/user-attachments/assets/b3b7beac-b75b-4dbe-8642-8afc87e10ac9
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
 
 
-Link your demo video here:
+ **Team Name:** Nexus
+ **Participants:**
 
-```
+ * Layyana Junaid
+ * Maryam Mustafa
+ * Khadija Atiq
+ * Wafa Zehra
 
-https://github.com/user-attachments/assets/b3b7beac-b75b-4dbe-8642-8afc87e10ac9
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" /> 
 
 
-```
+ ---
 
-## Problem Statement
+ ## Project Overview
 
-Digital banking applications often suffer from:
+ Voice Assistance Agent is an AI-powered, voice-guided banking interface designed to simplify digital banking interactions through natural speech and real-time UI guidance.
 
-* Complex navigation paths
-* Too many steps for simple tasks
-* Low user confidence when making payments
-* High support dependency
-* Poor accessibility for non-technical users
+ The system allows users to complete tasks like bill payments using voice commands while the assistant guides them step-by-step by highlighting exactly what to click on the  screen.
 
-Users frequently abandon tasks when unsure about what to click next.
+ Instead of static help menus or text-heavy FAQs, this solution provides:
 
-There is a need for an intelligent, real-time, conversational guidance system that assists users directly inside the application interface.
+ * Real-time voice interaction
+ * Context-aware step-by-step guidance
+ * Smart UI highlighting
+ * Interactive modal navigation
+ * Mock payment processing with balance deduction
 
----
+ This project demonstrates how voice agents can enhance user experience in digital banking platforms.
+
+ ---
+ ## Video Demonstration
+ ##### -> Due to the issue of presence of voice in the screen recorded video, I am attaching a manually recorded video, apologies for inconvinience!
+ 
+ https://github.com/user-attachments/assets/b3b7beac-b75b-4dbe-8642-8afc87e10ac9
+
+
+ Link your demo video here:
+
+ ```
+  https://github.com/user-attachments/assets/b3b7beac-b75b-4dbe-8642-8afc87e10ac9
+ ```
+
+ ## Problem Statement
+
+ Digital banking applications often suffer from:
+
+ * Complex navigation paths
+ * Too many steps for simple tasks
+ * Low user confidence when making payments
+ * High support dependency
+ * Poor accessibility for non-technical users
+
+ Users frequently abandon tasks when unsure about what to click next.
+
+ There is a need for an intelligent, real-time, conversational guidance system that assists users directly inside the application interface.
+
+  ---
 
 ## Proposed Solution
 
@@ -256,3 +256,4 @@ By combining natural language understanding, real-time UI control, and voice fee
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
 
+</div>
