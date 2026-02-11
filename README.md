@@ -19,49 +19,46 @@
  * Wafa Zehra
 
  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" /> 
+</div>
 
+---
 
- ---
+## Project Overview
 
- ## Project Overview
+Voice Assistance Agent is an AI-powered, voice-guided banking interface designed to simplify digital banking interactions through natural speech and real-time UI guidance.
 
- Voice Assistance Agent is an AI-powered, voice-guided banking interface designed to simplify digital banking interactions through natural speech and real-time UI guidance.
+The system allows users to complete tasks like bill payments using voice commands while the assistant guides them step-by-step by highlighting exactly what to click on the screen.
 
- The system allows users to complete tasks like bill payments using voice commands while the assistant guides them step-by-step by highlighting exactly what to click on the  screen.
+Instead of static help menus or text-heavy FAQs, this solution provides:
 
- Instead of static help menus or text-heavy FAQs, this solution provides:
+* Real-time voice interaction
+* Context-aware step-by-step guidance
+* Smart UI highlighting
+* Interactive modal navigation
+* Mock payment processing with balance deduction
+This project demonstrates how voice agents can enhance user experience in digital banking platforms.
 
- * Real-time voice interaction
- * Context-aware step-by-step guidance
- * Smart UI highlighting
- * Interactive modal navigation
- * Mock payment processing with balance deduction
-
- This project demonstrates how voice agents can enhance user experience in digital banking platforms.
-
- ---
- ## Video Demonstration
- ##### -> Due to the issue of presence of voice in the screen recorded video, I am attaching a manually recorded video, apologies for inconvinience!
+---
+## Video Demonstration
+##### -> Due to the issue of presence of voice in the screen recorded video, I am attaching a manually recorded video, apologies for inconvinience!
  
  https://github.com/user-attachments/assets/b3b7beac-b75b-4dbe-8642-8afc87e10ac9
 
 
- Link your demo video here:
+Link your demo video here:
 
  ```
   https://github.com/user-attachments/assets/b3b7beac-b75b-4dbe-8642-8afc87e10ac9
  ```
 
- ## Problem Statement
+## Problem Statement
 
- Digital banking applications often suffer from:
-
+ * Digital banking applications often suffer from:
  * Complex navigation paths
  * Too many steps for simple tasks
  * Low user confidence when making payments
  * High support dependency
  * Poor accessibility for non-technical users
-
  Users frequently abandon tasks when unsure about what to click next.
 
  There is a need for an intelligent, real-time, conversational guidance system that assists users directly inside the application interface.
@@ -255,5 +252,3 @@ Voice Assistance Agent demonstrates how AI-powered conversational systems can si
 By combining natural language understanding, real-time UI control, and voice feedback, this project showcases the future direction of interactive financial applications.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
-
-</div>
