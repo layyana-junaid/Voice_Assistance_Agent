@@ -12,11 +12,7 @@
 
  **Team Name:** Nexus
  **Participants:**
-
- * Layyana Junaid
- * Maryam Mustafa
- * Khadija Atiq
- * Wafa Zehra
+   Layyana Junaid, Maryam Mustafa, Khadija Atiq, and Wafa Zehra
 
  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" /> 
 </div>
