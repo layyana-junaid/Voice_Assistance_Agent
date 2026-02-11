@@ -1,6 +1,6 @@
-# Voice Assistance Agent
+# *Voice Assistance Agent*
 
-### AI-Powered Voice-Guided Banking Demo
+### *AI-Powered Voice-Guided Banking Demo*
 
 **Team Name:** Nexsusu
 **Participants:**
@@ -162,7 +162,7 @@ Voice_Assistance_Agent/
 │
 ├── frontend/
 │   ├── index.html
-│   ├── styles.css
+│   ├── style.css
 │   └── app.js
 │
 ├── README.md
@@ -208,22 +208,22 @@ Open `frontend/index.html` in browser (Chrome recommended).
 
 ---
 
-## Screenshots
-
-Add your screenshots below:
+## Working Workflow:
 
 ### Dashboard View
 
-(Insert image here)
+![banner](screenshots/1.jpg)
+
+### Highlighted Indications
+![banner](screenshots/4.jpg)
+
 
 ### Bill Payment Flow
+![banner](screenshots/3.jpg)
 
-(Insert image here)
 
 ### Confirmation Screen
-
-(Insert image here)
----
+![banner](screenshots/5.jpg)
 
 ## Future Improvements
 
