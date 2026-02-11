@@ -219,15 +219,15 @@ Open `frontend/index.html` in browser (Chrome recommended).
 ![banner](screenshots/1.jpg)
 
 ### Highlighted Indications
-![banner](screenshots/4.jpg)
+![banner](screenshots/3.jpeg)
 
 
 ### Bill Payment Flow
-![banner](screenshots/3.jpg)
+![banner](screenshots/4.jpeg)
 
 
 ### Confirmation Screen
-![banner](screenshots/5.jpg)
+![banner](screenshots/5.jpeg)
 
 ## Future Improvements
 
