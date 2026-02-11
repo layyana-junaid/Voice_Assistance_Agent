@@ -1,6 +1,8 @@
 # *Voice Assistance Agent*
 
 ### *AI-Powered Voice-Guided Banking Demo*
+![banner](screenshots/1.jpg)
+
 
 **Team Name:** Nexsusu
 **Participants:**
@@ -30,7 +32,7 @@ This project demonstrates how voice agents can enhance user experience in digita
 
 ---
 ## Video Demonstration
-##### due to the issue of presence of voice in the screen recorded video, I am attaching a manually recorded video, apologies for inconvinience!
+##### -> Due to the issue of presence of voice in the screen recorded video, I am attaching a manually recorded video, apologies for inconvinience!
 
 https://github.com/user-attachments/assets/b3b7beac-b75b-4dbe-8642-8afc87e10ac9
 
@@ -223,11 +225,11 @@ Open `frontend/index.html` in browser (Chrome recommended).
 
 
 ### Bill Payment Flow
-![banner](screenshots/4.jpeg)
+![banner](screenshots/5.jpeg)
 
 
 ### Confirmation Screen
-![banner](screenshots/5.jpeg)
+![banner](screenshots/4.jpeg)
 
 ## Future Improvements
 
