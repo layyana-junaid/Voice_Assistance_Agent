@@ -1,7 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
+
 # *Voice Assistance Agent*
 
 ### *AI-Powered Voice-Guided Banking Demo*
 ![banner](screenshots/1.jpg)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
 
 
 **Team Name:** Nexus
@@ -11,6 +15,8 @@
 * Maryam Mustafa
 * Khadija Atiq
 * Wafa Zehra
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
 
 ---
 
@@ -248,4 +254,5 @@ Voice Assistance Agent demonstrates how AI-powered conversational systems can si
 
 By combining natural language understanding, real-time UI control, and voice feedback, this project showcases the future direction of interactive financial applications.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
 
